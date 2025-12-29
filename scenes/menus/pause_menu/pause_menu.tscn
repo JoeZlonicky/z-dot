@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://d34o2g1va8dgh"]
 
-[ext_resource type="Script" uid="uid://dgbgyk2453b7g" path="res://ui_templates/pause_menu/pause_menu.gd" id="1_aubt2"]
+[ext_resource type="Script" uid="uid://dgbgyk2453b7g" path="res://scenes/menus/pause_menu/pause_menu.gd" id="1_aubt2"]
 
 [node name="PauseMenu" type="CanvasLayer"]
 process_mode = 3

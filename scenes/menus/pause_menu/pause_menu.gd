@@ -1,7 +1,7 @@
 extends CanvasLayer
 
 
-const AUDIO_LEVEL_PER_PRESS: int = 20  # Should a divisor of 100
+const AUDIO_LEVEL_PER_PRESS: int = 20  # Should be a divisor of 100
 
 @export_custom(PROPERTY_HINT_INPUT_NAME, "") var pause_action: StringName
 

@@ -9,7 +9,7 @@ bg_color = Color(0.180392, 0.133333, 0.184314, 1)
 [node name="DevOverlay" type="CanvasLayer"]
 layer = 100
 script = ExtResource("1_27q8j")
-toggle_action = &"test"
+toggle_action = &"debug_menu"
 
 [node name="Panel" type="Panel" parent="."]
 custom_minimum_size = Vector2(0, 50)

@@ -3,5 +3,4 @@
 [ext_resource type="Script" uid="uid://clju1by0siupm" path="res://components/audio/sfx_on_damaged/sfx_on_damaged.gd" id="1_3pbdl"]
 
 [node name="SFXOnDamaged" type="AudioStreamPlayer2D"]
-bus = &"SFX"
 script = ExtResource("1_3pbdl")
